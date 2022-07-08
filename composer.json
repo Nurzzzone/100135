@@ -1,6 +1,8 @@
 {
     "name": "nurzzzone/admin-panel",
     "description": "Admin panel",
+    "type": "library",
+    "homepage": "https://github.com/Nurzzzone/100135",
     "authors": [
         {
             "name": "nurzzzone",
