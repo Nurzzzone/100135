@@ -3,6 +3,7 @@
     "description": "Admin panel",
     "type": "library",
     "homepage": "https://github.com/Nurzzzone/100135",
+    "license": "MIT",
     "authors": [
         {
             "name": "nurzzzone",
