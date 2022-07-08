@@ -11,7 +11,12 @@
         }
     ],
     "require": {
-        "illuminate/support": "*"
+        "php": ">=7.3.0",
+        "laravel/framework": ">=5.5"
+    },
+    "require-dev": {
+        "laravel/laravel": ">=5.5",
+        "fzaninotto/faker": "~1.4"
     },
     "autoload": {
         "psr-4": {
